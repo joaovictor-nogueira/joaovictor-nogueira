@@ -54,7 +54,7 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas. Atualmente, sou for
 
 ### 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictor-nogueira/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-nogueira-doratioto/)
 [![Gmail](https://img.shields.io/badge/-jvdoratioto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvdoratioto@gmail.com)
 
 ---
