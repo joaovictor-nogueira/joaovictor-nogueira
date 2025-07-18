@@ -12,7 +12,7 @@
 
 ### 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de sistemas. Atualmente, sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade São Francisco (USF) e venho me aprofundando principalmente no desenvolvimento **Backend com PHP e Laravel**. Gosto de criar soluções que façam sentido para as pessoas e empresas.
+Atuo na área de tecnologia com foco no desenvolvimento de sistemas web. Sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade São Francisco (USF) e tenho direcionado minha carreira para o backend, especialmente utilizando **PHP e o framework Laravel**. Busco sempre desenvolver soluções funcionais e relevantes para usuários e empresas.
 - 💻 Atualmente Trabalho como IT Assistant.
 - 🔭 Estou trabalhando em sistemas ERP, APIs RESTful e projetos pessoais com Laravel.
 - 💡 Curioso sobre arquitetura de software, boas práticas e performance.
