@@ -39,7 +39,6 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas. Atualmente, sou for
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joaovictor-nogueira&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor-nogueira&layout=compact&theme=radical" />
 </p>
 
