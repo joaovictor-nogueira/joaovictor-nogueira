@@ -12,6 +12,8 @@
 
 ### 🚀 Sobre mim
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 Atuo na área de tecnologia com foco no desenvolvimento de sistemas web. Sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade São Francisco (USF) e tenho direcionado minha carreira para o backend, especialmente utilizando **PHP e o framework Laravel**. Busco sempre desenvolver soluções funcionais e relevantes para usuários e empresas.
 - 💻 Atualmente Trabalho como IT Assistant.
 - 🔭 Estou trabalhando em sistemas ERP, APIs RESTful e projetos pessoais com Laravel.
