@@ -26,7 +26,8 @@ Atuo na área de tecnologia com foco no desenvolvimento de sistemas web. Sou for
 ### 🌐 Portfólio
 
 🧠 Acesse meu portfólio completo:  
-🎯 [**nogueiradoratioto.com.br**](https://nogueiradoratioto.com.br)
+🎯 <a href="https://nogueiradoratioto.com.br" target="_blank">**🌎 nogueiradoratioto.com.br**</a>
+
 
 ---
 
