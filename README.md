@@ -60,7 +60,7 @@ Atuo na área de tecnologia com foco no desenvolvimento de sistemas web. Sou for
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-nogueira-doratioto/)
 [![Gmail](https://img.shields.io/badge/-jvdoratioto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvdoratioto@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nogueiradoratioto.com.br)
 ---
 
 <p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
