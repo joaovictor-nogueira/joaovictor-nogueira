@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o João Victor Nogueira</h1>
 
 <p align="center">
-  💻 Desenvolvedor Backend | 🎓 Formado em ADS | 🌎 Brasil
+  💻 Desenvolvedor Web | 🎓 Formado em ADS | 🌎 Brasil
 </p>
 
 ---
