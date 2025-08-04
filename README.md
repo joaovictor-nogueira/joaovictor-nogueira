@@ -18,7 +18,7 @@ Atuo na área de tecnologia com foco no desenvolvimento de sistemas web. Sou for
 - 💻 Atualmente Trabalho como IT Assistant.
 - 🔭 Estou trabalhando em sistemas ERP, APIs RESTful e projetos pessoais com Laravel.
 - 💡 Curioso sobre arquitetura de software, boas práticas e performance.
-- 📚 Aprendendo continuamente sobre Laravel, Javascript e Frameworks Front-End.
+- 📚 Aprendendo continuamente sobre Laravel, Javascript e Frameworks Front-End e Back-End.
 - 🤝 Aberto a colaborações e projetos interessantes!
 
 ---
