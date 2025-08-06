@@ -53,7 +53,7 @@ Atuo na área de tecnologia com foco no desenvolvimento de sistemas web. Sou for
 ### 📌 Projetos em destaque
 
 - 🔗 [**App Meu Porquinho**](https://github.com/joaovictor-nogueira/meu-porquinho) — Controle de finanças pessoais feito com Laravel e Bootstrap.
-- 🔗 [**Sistema de Portaria**](https://github.com/joaovictor-nogueira/portaria) — Registro de visitantes e veículos com integração a múltiplos bancos.
+- 🔗 [**Sistema Vendas**](https://github.com/joaovictor-nogueira/Sistema-Vendas) — Gestão de Vendas.
 - 🔗 [**taskApp**](https://github.com/joaovictor-nogueira/taskApp) — App de gerenciamento de tarefas feito com Laravel 12 e react.
 
 ---
