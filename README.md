@@ -58,7 +58,7 @@ Atuo na área de tecnologia com foco no desenvolvimento de sistemas web. Sou for
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Onde me encontrar 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-nogueira-doratioto/)
 [![Gmail](https://img.shields.io/badge/-jvdoratioto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvdoratioto@gmail.com)
