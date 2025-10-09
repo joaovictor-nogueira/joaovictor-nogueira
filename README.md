@@ -3,7 +3,7 @@
   Olá, eu sou o João Victor Nogueira
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-
+ 
 <p align="center">
   💻 Desenvolvedor Web | 🎓 Formado em ADS | 🌎 Brasil
 </p>
