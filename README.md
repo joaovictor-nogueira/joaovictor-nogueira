@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Atuo na área de tecnologia com foco no desenvolvimento de sistemas web. Sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade São Francisco (USF) e atualmente curso uma pós-graduação Lato Sensu em Gestão Estratégica da Tecnologia da Informação (GETI) no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).Tenho direcionado minha carreira para o backend, especialmente utilizando **PHP e o framework Laravel**. Busco sempre desenvolver soluções funcionais e relevantes para usuários e empresas.
+Atuo na área de tecnologia com foco no desenvolvimento de sistemas web. Sou formado em **Análise e Desenvolvimento de Sistemas** pela Universidade São Francisco (USF) e atualmente curso uma pós-graduação Lato Sensu em **Gestão Estratégica da Tecnologia da Informação (GETI)** no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).Tenho direcionado minha carreira para o backend, especialmente utilizando **PHP e o framework Laravel**. Busco sempre desenvolver soluções funcionais e relevantes para usuários e empresas.
 - 💻 Atualmente Trabalho como IT Assistant.
 - 🔭 Estou trabalhando em sistemas ERP, APIs RESTful e projetos pessoais com Laravel.
 - 💡 Curioso sobre arquitetura de software, boas práticas e performance.
